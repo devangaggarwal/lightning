@@ -1,5 +1,5 @@
 **NEW- Lightning 2.0 is featuring a clean and stable API!!**
-** Updated by Devang**
+**Updated by Devang**
 
 ______________________________________________________________________
 
