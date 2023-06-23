@@ -1,13 +1,5 @@
-<div align="center">
-
-<img alt="Lightning" src="https://pl-public-data.s3.amazonaws.com/assets_lightning/LightningColor.png" width="800px" style="max-width: 100%;">
-
-<br/>
-<br/>
-
-**The Deep Learning framework to train, deploy, and ship AI products Lightning fast.**
-
 **NEW- Lightning 2.0 is featuring a clean and stable API!!**
+** Updated by Devang**
 
 ______________________________________________________________________
 
